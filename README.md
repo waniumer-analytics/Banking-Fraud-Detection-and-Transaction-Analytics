@@ -1,6 +1,6 @@
-                                              Banking-Fraud-Detection-and-Transaction-Analytics
+                                                     Banking-Fraud-Detection-and-Transaction-Analytics
                          
-                                                     Project Overview
+                                                             Project Overview
                                                      
 This project demonstrates an end-to-end Business Intelligence solution for analyzing banking transactions and identifying fraud patterns. Using Excel, SQL, Python, and Power BI, the project transforms raw transactional data into interactive dashboards that help stakeholders monitor fraud, understand customer behavior, and support strategic decision-making.
 The solution follows the complete data analytics lifecycle, from data preparation to executive reporting.
@@ -13,34 +13,33 @@ The solution follows the complete data analytics lifecycle, from data preparatio
 
                                                      Business Problem
 
-Financial institutions process millions of transactions daily, making fraud detection a critical challenge. Traditional reporting often lacks interactive insights required for timely investigation and decision-making.
+> Financial institutions process millions of transactions daily, making fraud detection a critical challenge. Traditional reporting often lacks interactive insights required for timely investigation and decision-making.
 
-This project aims to:
-•	Analyze fraudulent transactions.
-•	Monitor fraud trends.
-•	Understand customer behavior.
-•	Track transaction performance.
-•	Build executive dashboards for decision-makers.
+  1. Analyze fraudulent transactions.
+  2. 	Monitor fraud trends.
+  3. 	Understand customer behavior.
+  4. 	Track transaction performance.
+  5. 	Build executive dashboards for decision-makers.
 
                                                     Project Objectives
                                                     
-•	Detect fraud patterns across banking transactions.
-•	Analyze customer spending behavior.
-•	Evaluate transaction trends.
-•	Build executive dashboards.
-•	Provide actionable business recommendations.
-•	Demonstrate an end-to-end analytics workflow.
+1. Detect fraud patterns across banking transactions.
+2. Analyze customer spending behavior.
+3.  Evaluate transaction trends.
+4.  Build executive dashboards.
+5.  Provide actionable business recommendations.
+6.   Demonstrate an end-to-end analytics workflow.
 
                                                     Tools & Technologies
 
-Excel	Initial Data Exploration.
-SQL	Data Querying & KPI Analysis.
-Python	Data Cleaning, EDA & Feature Engineering.
-Power BI	Dashboard Development.
-DAX	KPI Calculations.
-Pandas	Data Manipulation.
-NumPy	Numerical Analysis.
-Matplotlib	Data Visualization.
+1. Excel	Initial Data Exploration.
+2. SQL	Data Querying & KPI Analysis.
+3. Python	Data Cleaning, EDA & Feature Engineering.
+4. Power BI	Dashboard Development.
+5. DAX	KPI Calculations.
+6. Pandas	Data Manipulation.
+7. NumPy	Numerical Analysis.
+8. Matplotlib	Data Visualization.
 
                                                       Project Workflow
 
@@ -48,34 +47,20 @@ Raw Dataset  ->  Excel  ->   SQL  ->    Python ->   Feature Engineering  ->    P
 
                                                      Dataset Summary
 
-Domain	=  Banking.
-Records	 =  50,000.
-Features = 34.
-Target Variable	= Fraud Status.
+# Domain	=  Banking.
+# Records	 =  50,000.
+# Features = 34.
+# Target Variable	= Fraud Status.
 
-Key Features.
-•	Transaction Amount
-•	Fraud Status
-•	Fraud Risk Score
-•	Merchant Category
-•	Device Type
-•	Authentication Method
-•	Card Type
-•	Transaction Type
-•	Time of Day
-•	Business Hours
-•	Weekend Flag
 
                                                       Python Analysis
                                                       
-The Python workflow was organized into six focused notebooks:-
-
-•	Python Environment Setup
-•	Data Exploration
-•	Grouping & Aggregation
-•	Data Visualization
-•	Fraud Investigation
-•	Dashboard Preparation
+1. 	Python Environment Setup.
+2. Data Exploration.
+3. Grouping & Aggregation
+4. Data Visualization
+5. Fraud Investigation
+6. Dashboard Preparation.
 
 The notebooks include:- 
 •	Data Cleaning
@@ -86,9 +71,9 @@ The notebooks include:-
 •	Business Insights
 •	Dashboard Dataset Preparation
 
-                                                      Power BI Dashboards
 
-1. Executive Dashboard  .
+                                                      Power BI Dashboards
+1.  Executive Dashboard  .
 Provides a high-level overview of banking performance.
 
 KPIs
@@ -99,7 +84,7 @@ KPIs
 •	Average Fraud Risk Score
 •	Average Transaction Amount
 
-2 . Fraud Analysis Dashboard.
+2. Fraud Analysis Dashboard.
  
 Analyzes fraud across:
 •	Transaction Type
@@ -108,7 +93,7 @@ Analyzes fraud across:
 •	Device Type
 •	Time of Day.
 
-3. Customer Behavior Dashboard.
+3.  Customer Behavior Dashboard.
    
 Provides insights into:
 •	Customer Activity
@@ -131,7 +116,7 @@ Supports fraud investigation using:
 •	Interactive Filters
 •	Transaction-level Details
 
-**Interactive Features**
+                                                    # Interactive Features 
 
 •	Interactive Slicers
 •	Custom Tooltips
@@ -144,19 +129,19 @@ Supports fraud investigation using:
 
                                                   Key Business Insights
                                                               
-•	Fraud transactions account for approximately 32% of all transactions in the synthetic dataset.
-•	Fraud activity can be analyzed by transaction type, merchant category, authentication method, and device type.
-•	Customer transaction behavior remains relatively consistent across card types in the balanced synthetic dataset.
-•	Interactive dashboards enable rapid fraud investigation and executive reporting.
+1. 	Fraud transactions account for approximately 32% of all transactions in the synthetic dataset.
+2. Fraud activity can be analyzed by transaction type, merchant category, authentication method, and device type.
+3. Customer transaction behavior remains relatively consistent across card types in the balanced synthetic dataset.
+4. Interactive dashboards enable rapid fraud investigation and executive reporting.
 Note: This project uses a synthetic dataset designed for analytics practice. Some distributions are intentionally balanced and may not reflect real-world banking data.
 
                                                   Business Recommendations
                                                               
-•	Monitor high-risk transactions using Fraud Risk Score.
-•	Strengthen authentication monitoring for suspicious activity.
-•	Review merchant categories with higher fraud occurrence.
-•	Implement real-time fraud alerts.
-•	Extend the solution with predictive machine learning models.
+1. 	Monitor high-risk transactions using Fraud Risk Score.
+2. 	Strengthen authentication monitoring for suspicious activity.
+3.  Review merchant categories with higher fraud occurrence.
+4.  Implement real-time fraud alerts.
+5.  Extend the solution with predictive machine learning models.
 
                                                                 Skills Demonstrated
 1. Technical Skills.
@@ -194,8 +179,9 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
                                                                                            Project Outcomes
 . This project demonstrates the complete lifecycle of a modern Business Intelligence solution—from raw data exploration to executive reporting. It showcases technical proficiency in analytics tools while emphasizing business thinking, decision support, and effective data storytelling.
 
-Connect With Me
-Wani umer
-LinkedIn: 
-Portfolio: 
+                                                                                         Connect With Me
+Wani umer.
+> LinkedIn: - https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+> Portfolio :- 
+> PowerBI Services :- https://app.powerbi.com/groups/me/reports/54e7b83d-d886-4aea-917b-ae74f1fa2ff3/a3b5a7d8bdcfeeb7fb6e?experience=power-bi 
 
