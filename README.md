@@ -144,7 +144,7 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 5.  Extend the solution with predictive machine learning models.
 
                                                                 Skills Demonstrated
-1. Technical Skills.
+   # Technical Skills.
    
 •	Excel
 •	SQL
@@ -155,7 +155,7 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 •	NumPy
 •	Matplotlib
 
-2. Business Skills.
+#  Business Skills.
    
 •	Fraud Analytics
 •	Data Cleaning
@@ -166,7 +166,7 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 •	Executive Reporting
 •	Data Storytelling
 
-3. Future Enhancements.
+# Future Enhancements.
    
 •	Machine Learning-based Fraud Prediction
 •	Real-time Data Streaming
@@ -181,7 +181,8 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 
                                                                                          Connect With Me
 Wani umer.
-> LinkedIn: - https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
-> Portfolio :- 
-> PowerBI Services :- https://app.powerbi.com/groups/me/reports/54e7b83d-d886-4aea-917b-ae74f1fa2ff3/a3b5a7d8bdcfeeb7fb6e?experience=power-bi 
+
+1. LinkedIn: - https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+   
+2.  PowerBI Services :- https://app.powerbi.com/groups/me/reports/54e7b83d-d886-4aea-917b-ae74f1fa2ff3/a3b5a7d8bdcfeeb7fb6e?experience=power-bi 
 
