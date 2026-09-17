@@ -47,77 +47,12 @@ Raw Dataset  ->  Excel  ->   SQL  ->    Python ->   Feature Engineering  ->    P
 
 # Dataset Summary
 
-# Domain	=  Banking.
-# Records	 =  50,000.
-# Features = 34.
-# Target Variable	= Fraud Status.
+ Domain	=  Banking.
+ Records	 =  50,000.
+ Features = 34.
+ Target Variable	= Fraud Status.
 
 
-#  Python Analysis
-                                                      
-1. 	Python Environment Setup.
-2. Data Exploration.
-3. Grouping & Aggregation
-4. Data Visualization
-5. Fraud Investigation
-6. Dashboard Preparation.
-
-# The notebooks include:- 
-
-•	Data Cleaning
-•	Missing Value Analysis
-•	Duplicate Detection
-•	Feature Engineering
-•	Exploratory Data Analysis
-•	Business Insights
-•	Dashboard Dataset Preparation
-
-
-# Power BI Dashboards
-
-1.  Executive Dashboard  .
-
-Provides a high-level overview of banking performance.
-
-KPIs
-•	Total Transactions
-•	Fraud Transactions
-•	Fraud Rate
-•	Total Transaction Value
-•	Average Fraud Risk Score
-•	Average Transaction Amount
-
-2. Fraud Analysis Dashboard.
- 
-Analyzes fraud across:
-•	Transaction Type
-•	Merchant Category
-•	Authentication Method
-•	Device Type
-•	Time of Day.
-
-3.  Customer Behavior Dashboard.
-   
-Provides insights into:
-•	Customer Activity
-•	Card Usage
-•	Spending Behavior
-•	Customer Segmentation
-
-4. Transaction Analysis Dashboard.
-Analyzes:
-•	Transaction Volume
-•	Transaction Value
-•	Quarterly Trends
-•	Monthly Trends
-•	Time of Day Analysis
-
-5. Transaction Details Dashboard
-   
-Supports fraud investigation using:
-•	Drill-through
-•	Interactive Filters
-•	Transaction-level Details
 
  # Interactive Features 
 
@@ -169,27 +104,14 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 •	Executive Reporting
 •	Data Storytelling
 
-# Future Enhancements.
-   
-•	Machine Learning-based Fraud Prediction
-•	Real-time Data Streaming
-•	Automated Fraud Alerts
-•	Power BI Service Deployment
-•	Mobile Dashboard Optimization
 
-
-
-#  Project Outcomes
-
-. This project demonstrates the complete lifecycle of a modern Business Intelligence solution—from raw data exploration to executive reporting. It showcases technical proficiency in analytics tools while emphasizing business thinking, decision support, and effective data storytelling.
-
- # Connect With Me
+ # Author
 
 Wani umer.  Data Analyst
 
 # LinkedIn: -
 
-    https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
    
 # PowerBI Live Link :-
 
