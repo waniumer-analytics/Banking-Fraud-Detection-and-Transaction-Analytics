@@ -176,14 +176,22 @@ Note: This project uses a synthetic dataset designed for analytics practice. Som
 
 
 
-                                                                                           Project Outcomes
+#  Project Outcomes
+
 . This project demonstrates the complete lifecycle of a modern Business Intelligence solution—from raw data exploration to executive reporting. It showcases technical proficiency in analytics tools while emphasizing business thinking, decision support, and effective data storytelling.
 
-                                                                                         Connect With Me
-Wani umer.
+ # Connect With Me
 
-1. LinkedIn: - https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+Wani umer.  Data Analyst
+
+# LinkedIn: -
+
+    https://www.linkedin.com/posts/waniumer-analytics_dataanalytics-dataanalyst-powerbi-share-7484456964161409024-c8X5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
    
-2.  PowerBI Services :- https://app.powerbi.com/groups/me/reports/54e7b83d-d886-4aea-917b-ae74f1fa2ff3/a3b5a7d8bdcfeeb7fb6e?experience=power-bi 
+# PowerBI Services :-
 
-3. PORTFOLIO :- https://codebasics.io/portfolio/WANI-UMER 
+ https://app.powerbi.com/view?r=eyJrIjoiOWZkYTU1MGItNjkzNy00NDg3LThhYTEtYjU1OWJhYjI4M2I1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+# PORTFOLIO :-
+
+ https://codebasics.io/portfolio/WANI-UMER 
